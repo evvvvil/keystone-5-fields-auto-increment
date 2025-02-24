@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.14.6",
-    "@keystonejs/adapter-knex": "^13.3.2",
+    "@keystonejs/adapter-knex": "https://github.com/evvvvil/keystone-5-adapter-knex/tarball/main",
     "@keystonejs/fields": "^22.1.3"
   },
   "devDependencies": {
